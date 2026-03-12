@@ -110,4 +110,5 @@ The churn prediction model can help telecom companies:
 ## Author
 
 V.Bhavitha
+
 Machine Learning Project – Customer Churn Prediction
